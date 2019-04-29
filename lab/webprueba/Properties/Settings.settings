@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="webprueba.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="webprueba_es_ehusw_Matriculas" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ehusw.es/jav/ServiciosWeb/comprobarmatricula.php</Value>
+    </Setting>
+    <Setting Name="webprueba_localhost_WebServiceValor" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:58049/WebServiceValor.asmx</Value>
+    </Setting>
+    <Setting Name="webprueba_usuarioNube_WebServiceValor" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://sw18-fede.azurewebsites.net/WebServiceValor.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

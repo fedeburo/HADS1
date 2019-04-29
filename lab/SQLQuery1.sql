@@ -1,0 +1,1 @@
+﻿select avg (ET.HReales) from EstudiantesTareas ET, Asignaturas A, TareasGenericas TG where A.Nombre = 'Herramientas Avanzadas de SW' and A.codigo = TG.CodAsig and TG.codigo = ET.CodTarea;
